@@ -518,6 +518,8 @@ body .explore-moew-btn:hover span img {
 }
 
 .hero-banner .hero-text {
+    font-family: "Playfair Display";
+    font-style: italic;
     z-index: 1;
     color: #ffffff;
     text-align: center;
@@ -525,9 +527,9 @@ body .explore-moew-btn:hover span img {
 }
 
 .hero-banner .hero-text .who-we-are {
-    font-size: 29px;
-    font-family: "Kamerik-Bold";
+    font-size: 50px;
     padding-top: 60px;
+    
 }
 
 .hero-banner .hero-text h1 {
